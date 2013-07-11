@@ -1,4 +1,4 @@
-## minimalbugexample/inst/tests/test-use-Matrix-package.R
+## minimalbugexample/inst/tests/testthat/test-use-Matrix-package.R
 ##
 ## This is just a file for some tests
 
