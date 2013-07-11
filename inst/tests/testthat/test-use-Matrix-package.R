@@ -12,5 +12,6 @@ context("Matrix tests")
               equals( t(Matrix(1:12, 3, 4))))
   })
 
-context("Intentional break")
-  expect_that( TRUE, equals(FALSE))
+## Uncomment if you want to intentionally fail a test.
+## context("Intentional break")
+##  expect_that( TRUE, equals(FALSE))
