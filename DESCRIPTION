@@ -1,0 +1,16 @@
+Package: minimalbugexample
+Title: 
+Description: 
+Version: 0.1.1
+Author: Nathan VanHoudnos <nathanvan@letterafterFmail.com>
+Maintainer: Nathan VanHoudnos <nathanvan@letterafterFmail.com>
+Depends:
+    R (>= 3.0.1),
+    Matrix (>= 1.0)
+Suggests:
+    testthat
+License: GPL
+LazyData: true
+Collate:
+    'minimalbugexample-package.r'
+    'use-Matrix-package.R'

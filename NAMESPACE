@@ -1,0 +1,4 @@
+export(make.a.Matrix)
+export(transpose.a.Matrix)
+importFrom(Matrix,Matrix)
+importFrom(Matrix,t)
