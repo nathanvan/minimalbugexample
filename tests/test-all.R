@@ -1,3 +1,3 @@
- ## minimalbugexample/inst/tests/test-all.R
+ ## minimalbugexample/tests/test-all.R
 library(testthat)
-test_check(minimalbugexample)
+test_check('minimalbugexample')
