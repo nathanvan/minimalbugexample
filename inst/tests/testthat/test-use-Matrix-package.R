@@ -1,7 +1,4 @@
 ## minimalbugexample/inst/tests/testthat/test-use-Matrix-package.R
-##
-## This is just a file for some tests
-
 context("Matrix tests")
   test_that("Create", {
     require(Matrix)
